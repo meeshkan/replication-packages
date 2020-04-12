@@ -14,7 +14,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (def url-root "http://localhost")
-(def access-token "Tzz_1zipFxRvdWyxm_ph")
+(def access-token "LNASRzMc6mGFybm4LFNo")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Databases
