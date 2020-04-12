@@ -12,4 +12,13 @@ Already done by Stefan. Only two additions:
 
 ## Runner
 
+In the Clojure REPL
+
+```
+Clojure 1.10.0
+user=> (load-file "src/openapi_pbt/gitlab_experiments.clj")       
+nil
+user=>
+```
+
 ## Mocker
